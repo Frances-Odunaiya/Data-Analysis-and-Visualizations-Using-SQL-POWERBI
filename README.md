@@ -2,12 +2,12 @@
 This repository hosts a project focusing on data analysis using SQL and the creation of a visualization report dashboard using Power BI. The project aims to provide insights into various datasets through SQL queries and then visualize these insights in an interactive dashboard format using Power BI.
 
 ## Table of Contents
-- Introduction
-- Features
-- Projects
-- Installation
-- Usage
-- Contributing
+- [Introduction](#Introduction)
+- [Features](#Features)
+- [Projects](#Projects)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
 
 ## Introduction
 In this repository, I will be leveraging SQL for data analysis tasks and Power BI for visualization. SQL (Structured Query Language) is used to query, manipulate, and analyze data stored in relational databases. We'll utilize SQL queries to extract, transform, and analyze data from the database.
