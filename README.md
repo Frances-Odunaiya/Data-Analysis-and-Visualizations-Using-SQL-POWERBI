@@ -22,7 +22,7 @@ Power BI is a powerful business analytics tool by Microsoft that allows users to
 - **Customizable Dashboard**: The Power BI dashboard will be customizable, allowing users to explore different aspects of the data based on their preferences.
 
 ## Projects
-1. **Pizza Sales**: The Pizza Sales Dashboard Project aims to analyze pizza sales data using SQL queries and visualize the insights through an interactive dashboard created with Power BI. This project offers a holistic approach to grasp and showcase pizza sales trends, customer preferences, and revenue metrics effectively. --->[Go to Project..]()
+1. **Pizza Sales**: The Pizza Sales Dashboard Project aims to analyze pizza sales data using SQL queries and visualize the insights through an interactive dashboard created with Power BI. This project offers a holistic approach to grasp and showcase pizza sales trends, customer preferences, and revenue metrics effectively. --->[Go to Project..](https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/README.md)
 
 ## Installation
 To use this project, follow these steps:
