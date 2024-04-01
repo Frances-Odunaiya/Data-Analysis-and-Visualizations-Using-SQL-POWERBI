@@ -28,11 +28,13 @@ Power BI is a powerful business analytics tool by Microsoft that allows users to
 To use this project, follow these steps:
 
 
-## Clone this repository:
+### Clone this repository:
 
-Ensure you have access to a SQL database management system (DBMS) such as MySQL, PostgreSQL, SQL Server, etc.
+- Git clone https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI.git
 
-Load your dataset into the SQL database or use an existing dataset.
+- Ensure you have access to a SQL database management system (DBMS) such as MySQL, PostgreSQL, SQL Server, etc.
+
+- Load your dataset into the SQL database or use an existing dataset.
 
 ## Usage
 - Perform data analysis tasks using SQL queries. Execute these queries in your SQL database management system to extract insights from the dataset.
