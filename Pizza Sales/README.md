@@ -29,8 +29,7 @@ The Pizza Sales Dashboard Project aims to analyze pizza sales data using SQL que
 
 ## Key Findings
 1. **Key Performance Indicators**: Looking at the Total Revenue, Avg Order Value, Total Pizzas sold, Total Orders, and Avg Pizzas per Order provides us with valuable insights into the performance of various KPIs, enabling data-driven decision-making and strategic planning.
-<img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221321.png
-" alt = "KPI">
+<img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221321.png" alt = "KPI">
 3. **Busiest Days and Times**
 4. **Sales Performance**
 5. **Best Sellers**
