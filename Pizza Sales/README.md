@@ -3,8 +3,8 @@
 ## Introduction
 The Pizza Sales Dashboard Project aims to analyze pizza sales data using SQL queries and visualize the insights through an interactive dashboard created with Power BI. By combining SQL for data analysis and Power BI for visualization, this project provides a comprehensive solution for understanding and presenting pizza sales trends, customer preferences, and revenue metrics.
 
-- <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20150307.png" alt = "Home" width = "60px" height = "60px">
-- <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221545.png" alt = "Best Sellers/Worst Sellers" width = "60px" height = "60px">
+- <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20150307.png" alt = "Home" width = "200px" height = "200px">
+- <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221545.png" alt = "Best Sellers/Worst Sellers" width = "200px" height = "200px">
 
 ## Features
 - Data Extraction with SQL: Utilize SQL queries to extract data from the pizza sales database.
@@ -31,15 +31,15 @@ The Pizza Sales Dashboard Project aims to analyze pizza sales data using SQL que
 - Documentation and Presentation: Document the analysis process, dashboard functionalities, and insights derived from the data. Prepare a presentation to share the findings with stakeholders.
 
 ## Key Findings
-- 1. **Key Performance Indicators**: Looking at the Total Revenue, Avg Order Value, Total Pizzas sold, Total Orders, and Avg Pizzas per Order provides us with valuable insights into the performance of various KPIs, enabling data-driven decision-making and strategic planning.
+- **Key Performance Indicators**: Looking at the Total Revenue, Avg Order Value, Total Pizzas sold, Total Orders, and Avg Pizzas per Order provides us with valuable insights into the performance of various KPIs, enabling data-driven decision-making and strategic planning.
 - <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221321.png" alt = "KPI">
-- 2. **Busiest Days and Times**: Understanding these busiest days and times enables effective staffing, inventory management, and marketing strategies to capitalize on peak sales periods.
+- **Busiest Days and Times**: Understanding these busiest days and times enables effective staffing, inventory management, and marketing strategies to capitalize on peak sales periods.
 - <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221419.png" alt = "Busy days and times">
-- 3. **Sales Performance**: Comprehending sales performance metrics enables informed decision-making, strategic planning, and the refinement of sales strategies, contributing to business growth and profitability.
+- **Sales Performance**: Comprehending sales performance metrics enables informed decision-making, strategic planning, and the refinement of sales strategies, contributing to business growth and profitability.
 - <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221436.png" alt = "Sales Performance">
-- 4. **Best Sellers**: Recognizing top sellers will enable businesses to leverage popular products, enhance marketing strategies, and increase profitability.
+- **Best Sellers**: Recognizing top sellers will enable businesses to leverage popular products, enhance marketing strategies, and increase profitability.
 - <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221517.png" alt = "Best Sellers">
-- 5. **Worst Sellers**: Recognizing underperforming products enables businesses to evaluate market demand, enhance product offerings, and streamline inventory management strategies.
+- **Worst Sellers**: Recognizing underperforming products enables businesses to evaluate market demand, enhance product offerings, and streamline inventory management strategies.
 - <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221533.png" alt = "Worst Sellers">
 
 ## Recommendation
