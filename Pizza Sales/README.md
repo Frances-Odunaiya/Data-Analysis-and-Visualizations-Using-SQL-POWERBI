@@ -8,13 +8,11 @@ The Pizza Sales Dashboard Project aims to analyze pizza sales data using SQL que
 - Data Cleansing and Transformation: Clean and transform the extracted data to prepare it for analysis.
 - Descriptive Analytics: Perform descriptive analysis using SQL to calculate key metrics such as total sales, average order value, top-selling pizza flavors, etc.
 - Visualization with Power BI: Create visually appealing and interactive dashboards in Power BI to represent the analyzed data.
-- Geospatial Analysis: Incorporate geographical analysis into the dashboard to visualize sales distribution by location.
 - Time Series Analysis: Analyze sales trends over time to identify patterns and seasonality.
-- Customer Segmentation (Optional): Segment customers based on their ordering behavior and preferences.
 - Dynamic Filters and Interactivity: Implement dynamic filters and interactive elements in the Power BI dashboard for user exploration.
 
 ## Tools and Technologies
-- SQL Server Management Studio (SSMS): For querying and managing the pizza sales database.
+- Azure Data Studio: For querying and managing the pizza sales database.
 - Power BI Desktop: To create interactive dashboards and reports.
 - SQL: Used for data extraction, transformation, and analysis.
 - Power Query (M Language): For data cleansing and transformation within Power BI.
@@ -30,11 +28,12 @@ The Pizza Sales Dashboard Project aims to analyze pizza sales data using SQL que
 - Documentation and Presentation: Document the analysis process, dashboard functionalities, and insights derived from the data. Prepare a presentation to share the findings with stakeholders.
 
 ## Key Findings
-1. **Busiest Days and Times**
-  
-2. **Sales Perfromance**
-3. **Best Sellers**
-4. **Worst Sellers**
+1. **Key Performance Indicators**: Looking at the Total Revenue, Avg Order Value, Total Pizzas sold, Total Orders, and Avg Pizzas per Order provides us with valuable insights into the performance of various KPIs, enabling data-driven decision-making and strategic planning.
+<img src = "" alt = "KPI">
+3. **Busiest Days and Times**
+4. **Sales Performance**
+5. **Best Sellers**
+6. **Worst Sellers**
 
 ## Recommendation
 
@@ -42,10 +41,10 @@ The Pizza Sales Dashboard Project aims to analyze pizza sales data using SQL que
 The Pizza Sales Dashboard Project with SQL and Power BI provides a powerful platform for analyzing and visualizing pizza sales data. By leveraging SQL for data analysis and Power BI for visualization, this project enables stakeholders to gain actionable insights, make informed decisions, and optimize business strategies based on the analyzed data.
 
 ## Repository Structure
-- data/: Contains the pizza sales database or dataset.
-- sql_queries/: SQL scripts for data extraction, analysis, and transformation.
-- powerbi_reports/: Power BI report files (.pbix) containing the interactive dashboards.
-- documentation/: Documentation files including project overview, data dictionary, and analysis reports.
+- Pizza Sales/Pizza Sales Images/: Contains the images used in this project.
+- Pizza Sales/PIZZA SALES SQL QUERIES - Report: SQL scripts for data extraction, analysis, and transformation.
+- Pizza Sales/Pizza Sales Report Dashboard: Power BI report files (.pbix) containing the interactive dashboards.
+- Pizza Sales/pizza_sales_excel_file: Contains the pizza sales database or dataset.
 
 ## Contributions
 Contributions to this project are welcome! If you have suggestions, enhancements, or want to report issues, feel free to open an issue or submit a pull request.
