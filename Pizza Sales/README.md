@@ -1,4 +1,4 @@
-# Pizza Sales Dashboard Project with SQL and Power BI
+# PIZZA SALES DASHBOARD REPORT PROJECT WITH SQL AND POWER BI
 
 ## INTRODUCTION
 The Pizza Sales Dashboard Project aims to analyze pizza sales data using SQL queries and visualize the insights through an interactive dashboard created with Power BI. By combining SQL for data analysis and Power BI for visualization, this project provides a comprehensive solution for understanding and presenting pizza sales trends, customer preferences, and revenue metrics.
