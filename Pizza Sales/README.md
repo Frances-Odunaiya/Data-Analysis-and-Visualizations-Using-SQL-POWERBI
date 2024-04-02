@@ -32,12 +32,16 @@ The Pizza Sales Dashboard Project aims to analyze pizza sales data using SQL que
 ## Key Findings
 - **Key Performance Indicators**: Looking at the Total Revenue, Avg Order Value, Total Pizzas sold, Total Orders, and Avg Pizzas per Order provides us with valuable insights into the performance of various KPIs, enabling data-driven decision-making and strategic planning.
 <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221321.png" alt = "KPI">
+
 - **Busiest Days and Times**: Understanding these busiest days and times enables effective staffing, inventory management, and marketing strategies to capitalize on peak sales periods.
 <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221419.png" alt = "Busy days and times">
+
 - **Sales Performance**: Comprehending sales performance metrics enables informed decision-making, strategic planning, and the refinement of sales strategies, contributing to business growth and profitability.
 <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221436.png" alt = "Sales Performance">
+
 - **Best Sellers**: Recognizing top sellers will enable businesses to leverage popular products, enhance marketing strategies, and increase profitability.
 <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221517.png" alt = "Best Sellers">
+
 - **Worst Sellers**: Recognizing underperforming products enables businesses to evaluate market demand, enhance product offerings, and streamline inventory management strategies.
 <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221533.png" alt = "Worst Sellers">
 
