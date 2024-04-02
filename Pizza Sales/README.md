@@ -3,7 +3,7 @@
 ## Introduction
 The Pizza Sales Dashboard Project aims to analyze pizza sales data using SQL queries and visualize the insights through an interactive dashboard created with Power BI. By combining SQL for data analysis and Power BI for visualization, this project provides a comprehensive solution for understanding and presenting pizza sales trends, customer preferences, and revenue metrics.
 
-<img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20150307.png" alt = "Home" width = "800px" height = "1000px"> <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221545.png" alt = "Best Sellers/Worst Sellers" width = "800px" height = "1000px">
+<img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20150307.png" alt = "Home" width = "400px" height = "1000px"> <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Key_Findings_on_Visualizations/Screenshot%202024-04-01%20221545.png" alt = "Best Sellers/Worst Sellers" width = "400px" height = "1000px">
 
 ## Features
 - Data Extraction with SQL: Utilize SQL queries to extract data from the pizza sales database.
