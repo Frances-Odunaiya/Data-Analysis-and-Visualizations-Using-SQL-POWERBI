@@ -3,7 +3,20 @@
 ## Introduction
 The Pizza Sales Dashboard Project aims to analyze pizza sales data using SQL queries and visualize the insights through an interactive dashboard created with Power BI. By combining SQL for data analysis and Power BI for visualization, this project provides a comprehensive solution for understanding and presenting pizza sales trends, customer preferences, and revenue metrics.
 
-<img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Problem%20Statement%201.jpg" alt = "Problem 1" width = "500px" height  = "500px"> <img src = "https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI/blob/main/Pizza%20Sales/Pizza%20Sales%20Images/Problem%20Statement%202.jpg" alt = "Problem 2" width = "500px" height  = "500px">
+## Problem Statement
+**KPI's REQUIREMENT**
+We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
+1. Total Revenue: The sum of the total price of all pizza orders.
+2. Average Order Value: The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
+3. Total Pizzas Sold: The sum of the quantities of all pizzas sold.
+4. Total Orders: The total number of orders placed.
+5. Average Pizzas Per Order: The average number of pizzas sold per order, calculated by dividina the total number of pizzas sold by the total number of orders.
+   
+**CHARTS REQUIREMENT**
+4. Percentage of Sales by Pizza Size: This chart will help us understand customer preferences for pizza sizes and their impact on sales.
+5. Total Pizzas Sold by Pizza Category: This chart will allow us to compare the sales performance of different pizza categories.
+6.Top 5 Best Sellers by Revenue, Total Quantity and Total Orders: This chart will help us identity the most popular pizza options.
+7. Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders: This chart will enable us to identify underperforming or less popular pizza options.
 
 ## Features
 - Data Extraction with SQL: Utilize SQL queries to extract data from the pizza sales database.
